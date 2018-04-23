@@ -14,7 +14,7 @@ $ ./bin/up https://l3.ai
 OR
 
 ```
-$ docker run up https://l3.ai
+$ docker run laithshadeed/up:0.1 https://l3.ai
 ```
 
 To run tests
